@@ -1,0 +1,59 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 40px;
+    border-image-slice: 5px rgb(255, 102, 0);
+
+}
+.mission{
+    color: orange;
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.half_width{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+.half_width img{
+    width: 100%;
+}
+.link_button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+.one_third img{
+width: 100px;
+height: 100px;
+}
+#first_card{
+    background-color: rgba(53, 247, 247, 0.26);
+}
+#second_card{
+    background-color: rgba(221, 160, 221, 0.466);
+}
+#third_card{
+    background-color: rgba(100, 148, 237, 0.205);
+}
+.one_third{
+    height: auto;
+    width: 200px;
+    margin-left: 20px;
+    padding: 20px;
+    border-radius: 10%;
+}
+.card_content{
+    font-size: smaller;
+}
+.mission_line{
+    color: darkorange;
+}
+.header_middle{
+    text-align: center;
+}
